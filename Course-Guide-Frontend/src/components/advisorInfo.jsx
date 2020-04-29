@@ -9,7 +9,7 @@ class AdvisorInfo extends Component {
         <div class="row" id="card">
           <img src={userImg} id="userpic" width="150px" height="150 px" />
           <div class="col-sm">
-            <h5>Advisor Name: Ruby ElKharboutly</h5>
+            <h5>Advisor Name: {} </h5>
             <h6>Associate Professor of Software Engineering</h6>
             <h6>Number of Advisees: 8</h6>
           </div>
